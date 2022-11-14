@@ -1,3 +1,6 @@
 print("git init")
 print("New function")
 print("Git_Test")
+print("bug fix in master")
+print("New function")
+print("General/Git_Test")
